@@ -25,7 +25,7 @@ RAG is a powerful framework with numerous applications, including:
 ## 🖼️ Workflow Overview
 Here is a high-level visualization of how RAG works:
 
-![RAG Workflow](https://dummyimage.com/800x400/cccccc/000000&text=RAG+Workflow)
+![RAG Workflow](simple-local-rag-workflow-flowchart.png)
 
 1. **Query Input**: A user provides a query.
 2. **Knowledge Retrieval**: Relevant documents are fetched from a knowledge base.
@@ -53,7 +53,7 @@ RAGify/
 ### Usage
 1. Clone the repository:
    ```bash
-   $ git clone https://github.com/yourusername/RAGify.git
+   $ git clone https://github.com/HarshTomar1234/RAGify.git
    $ cd RAGify
    ```
 2. Open the notebook:
@@ -68,9 +68,6 @@ RAGify/
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the notebook or add new RAG implementations.
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
