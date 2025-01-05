@@ -37,9 +37,11 @@ Here is a high-level visualization of how RAG works:
 ## 📂 Repository Structure
 ```
 RAGify/
-├── notebooks/           # Jupyter Notebooks
-│   └── RAG_pipeline.ipynb  # RAG Pipeline from Scratch
-└── README.md            # Project documentation
+├── RAG/                # Main folder containing RAG resources
+│   ├── notebooks/      # Jupyter Notebooks
+│   │   └── RAG_pipeline.ipynb  # RAG Pipeline from Scratch
+│   └── simple-local-rag-workflow-flowchart.png  # Workflow diagram
+└── README.md           # Project documentation
 ```
 
 ---
@@ -58,7 +60,7 @@ RAGify/
    ```
 2. Open the notebook:
    ```bash
-   $ jupyter notebook notebooks/RAG_pipeline.ipynb
+   $ jupyter notebook RAG/notebooks/RAG_pipeline.ipynb
    ```
 3. Follow the steps in the notebook to run the pipeline.
 
@@ -66,6 +68,11 @@ RAGify/
 
 ## 🧩 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the notebook or add new RAG implementations.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
