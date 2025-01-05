@@ -25,7 +25,7 @@ RAG is a powerful framework with numerous applications, including:
 ## 🖼️ Workflow Overview
 Here is a high-level visualization of how RAG works:
 
-![RAG Workflow](simple-local-rag-workflow-flowchart.png)
+![RAG Workflow](RAG/simple-local-rag-workflow-flowchart.png)
 
 1. **Query Input**: A user provides a query.
 2. **Knowledge Retrieval**: Relevant documents are fetched from a knowledge base.
