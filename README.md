@@ -39,7 +39,7 @@ Here is a high-level visualization of how RAG works:
 RAGify/
 ├── RAG/                # Main folder containing RAG resources
 │   ├── notebooks/      # Jupyter Notebooks
-│   │   └── RAG_pipeline.ipynb  # RAG Pipeline from Scratch
+│   │   └── RAG_(Retrieval_Augmented_Generation)_Pipeline_from_Scratch .ipynb  # RAG Pipeline from Scratch
 │   └── simple-local-rag-workflow-flowchart.png  # Workflow diagram
 └── README.md           # Project documentation
 ```
@@ -60,7 +60,7 @@ RAGify/
    ```
 2. Open the notebook:
    ```bash
-   $ jupyter notebook RAG/notebooks/RAG_pipeline.ipynb
+   $ jupyter notebook RAG/notebooks/RAG_(Retrieval_Augmented_Generation)_Pipeline_from_Scratch .ipynb 
    ```
 3. Follow the steps in the notebook to run the pipeline.
 
